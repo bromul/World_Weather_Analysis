@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-Uploading weather analysis
+Uploading weather data and analyses
